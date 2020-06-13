@@ -70,10 +70,10 @@ class BallSettings {
 
 class PegSettings {
     constructor() {
-        this.shape = "triangle";
+        this.shape = "circle";
         this.rows = 11;
         this.cols = 10;
-        this.pegSize = 20;
+        this.pegSize = 30;
         this.rowSpacing = 100;
     }
 }
